@@ -4,9 +4,9 @@
 
 Le néologisme technocritique définit un courant de pensée axé sur la critique du concept du « progrès technique », considéré comme une idéologie qui serait née au XVIIIe siècle durant la Révolution industrielle et qui, depuis la Seconde Guerre mondiale, s'ancre dans les consciences, principalement sous les effets de l'automation et de l'informatisation. [Lire plus sur Wikipédia](https://fr.wikipedia.org/wiki/Technocritique).
 
-Cette page a pour modeste ambition de lister les ressources incontournables du passé et du présent et les personnes à "follow" du présent qui questionnent l'apport de la technologie, le numérique sur des questions démocratiques, sociales, sociétales et bien sûr environnementales.
+Cette page a pour modeste ambition de lister les ressources incontournables du passé et du présent et les personnes du présent à "_follow_" (car faut pas déconner on utilise quand même un peu de novlangue) qui questionnent l'apport de la technologie, le numérique sur des questions démocratiques, sociales, sociétales et bien sûr environnementales.
 
-Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant une modification par pull request sinon par [email](mailto:supertanuki@gmail.com)
+Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant une modification par pull request sinon par [email](mailto:supertanuki@gmail.com).
 
 ## Bibliographie
 
