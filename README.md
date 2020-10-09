@@ -31,6 +31,8 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 * [Onestla.tech](https://onestla.tech/page/a-propos/), l'appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites.
 * [TechTrash](https://www.techtrash.fr/), la newsletter tech bête et méchante.
 * [Designers éthiques](https://designersethiques.org/), penser et concevoir des services numériques responsables et durables
+* [La Quadrature du Net](https://www.laquadrature.net) promeut et défend les libertés fondamentales dans l’environnement numérique
+* [Framasoft](https://framasoft.org/), Changer le monde, un octet à la fois. Association d’éducation populaire pour un monde numérique émancipateur
 
 ### Articles
 
