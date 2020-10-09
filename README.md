@@ -8,14 +8,25 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 
 Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant une modification par pull request sinon par [email](mailto:supertanuki@gmail.com)
 
+## Bibliographie
+
+* "La convivialité", Ivan Illich (1973)
+* "En attendant les robots. Enquête sur le travail du clic", Antonio Casilli (2019)
+* "Technologie partout, démocratie nulle part", Yaël Benayoun et Irénée Regnault (2020)
+* "La démocratie a-t-elle besoin de la science ?", Pierre Papon (2020)
+
 ## Sur la toile
 
-### Sites
+### Communautés, think tanks
 
 * [Le mouton numérique](https://mouton-numerique.org/)
 * [Mais où va le web, p(a)nser le numérique](http://maisouvaleweb.fr/)"
+* [affordance.info](https://www.affordance.info/), le blog de Olivier Ertzscheid, maître de conférences en sciences de l'information
 * [GreenIT.fr](https://www.greenit.fr/), communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018)
+* [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines
+* [InternetActu](http://www.internetactu.net/), blog édité par la [Fing](https://fing.org/), est un fil d’information consacré à l’innovation dans les techniques, les services et les usages des technologies de l’information et de la communication, et aux débats qui en découlent.
+* [Onestla.tech](https://onestla.tech/page/a-propos/), l'appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
 
 ### Articles
 
@@ -27,12 +38,13 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 * [Le mouton numérique](https://soundcloud.com/lemoutonnumerique)
 * [Techologie](https://techologie.net/), le podcast qui tente de lier tech et écologie alors que tout les oppose.
 
-## Bibliographie
+### A suivre
 
-* "La convivialité", Ivan Illich, 1973
-* "Technologie partout, démocratie nulle part", Yaël Benayoun et Irénée Regnault, 2020
-* "La démocratie a-t-elle besoin de la science ?", Pierre Papon, 2020
+* [Antonio Casilli](https://twitter.com/AntonioCasilli)
+* [Olivier Ertzscheid alias Affordanceinfo](https://twitter.com/Affordanceinfo2)
 
 ## Citations
 
-« J'appelle société conviviale une société où l'outil moderne est au service de la personne intégrée à la collectivité, et non au service d'un corps de spécialistes. Conviviale est la société où l'homme contrôle l'outil. » Ivan Illich
+« J'appelle société conviviale une société où l'outil moderne est au service de la personne intégrée à la collectivité, et non au service d'un corps de spécialistes. Conviviale est la société où l'homme contrôle l'outil », Ivan Illich (1973)
+
+« L’outil simple, pauvre, transparent est un humble serviteur; l’outil élaboré, complexe, secret est un maître arrogant. », Ivan Illich (1973)
