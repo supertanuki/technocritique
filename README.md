@@ -44,6 +44,7 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 
 * [Le mouton numérique](https://soundcloud.com/lemoutonnumerique), des émissions critiques et constructives sur nos choix technologiques et l'innovation.
 * [Techologie](https://techologie.net/), le podcast qui tente de lier tech et écologie alors que tout les oppose.
+* [Disruption Protestante](http://disruption-protestante.fr/), une immersion dans la Startup Nation pour comprendre les humains et les technologies sous le vernis de la "transformation digitale".
 
 ### A suivre
 
@@ -51,6 +52,7 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 * [Olivier Ertzscheid alias Affordanceinfo](https://twitter.com/Affordanceinfo2)
 * [Irénée Régnauld alias Mais où va le web ? ](https://twitter.com/MaisOuVaLeWeb/)
 * [Nicolas Falempin alias Solutions Locales](https://twitter.com/techn0verdose)
+* [Antoine Gouritin](https://twitter.com/agouritin)
 
 ## Citations
 
