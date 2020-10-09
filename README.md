@@ -17,6 +17,7 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 * "Pour une écologie numérique", Eric Vidalenc (2019)
 * "Technologie partout, démocratie nulle part", Yaël Benayoun et Irénée Régnault (2020)
 * "La démocratie a-t-elle besoin de la science ?", Pierre Papon (2020)
+* "Contre l'alternumérisme - Pourquoi nous ne proposerons pas d'"écogestes numériques" ni de solutions pour une "démocratie numérique"", Julia Lainae et Nicolas Alep (2020)
 
 ## Sur la toile
 
