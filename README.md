@@ -12,7 +12,8 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 
 * "La convivialité", Ivan Illich (1973)
 * "En attendant les robots. Enquête sur le travail du clic", Antonio Casilli (2019)
-* "Technologie partout, démocratie nulle part", Yaël Benayoun et Irénée Regnault (2020)
+* "Pour une écologie numérique", Eric Vidalenc (2019)
+* "Technologie partout, démocratie nulle part", Yaël Benayoun et Irénée Régnault (2020)
 * "La démocratie a-t-elle besoin de la science ?", Pierre Papon (2020)
 
 ## Sur la toile
@@ -20,7 +21,7 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 ### Communautés, think tanks
 
 * [Le mouton numérique](https://mouton-numerique.org/)
-* [Mais où va le web, p(a)nser le numérique](http://maisouvaleweb.fr/)"
+* [Mais où va le web, p(a)nser le numérique](http://maisouvaleweb.fr/)
 * [affordance.info](https://www.affordance.info/), le blog de Olivier Ertzscheid, maître de conférences en sciences de l'information
 * [GreenIT.fr](https://www.greenit.fr/), communauté des acteurs du numérique responsable qui s’intéressent à la sobriété numérique, à l’écoconception des services numériques, à la lowtech, et plus globalement à un avenir numérique alternatif (depuis 2004)
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018)
@@ -42,6 +43,8 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 
 * [Antonio Casilli](https://twitter.com/AntonioCasilli)
 * [Olivier Ertzscheid alias Affordanceinfo](https://twitter.com/Affordanceinfo2)
+* [Irénée Régnauld alias Mais où va le web ? ](https://twitter.com/MaisOuVaLeWeb/)
+* [Nicolas Falempin alias Solutions Locales](https://twitter.com/techn0verdose)
 
 ## Citations
 
