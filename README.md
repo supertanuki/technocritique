@@ -28,7 +28,8 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 * [The Shift Project](https://theshiftproject.org/lean-ict/), projet "les impacts environnementaux du Numérique" (depuis 2018)
 * [Fing](https://fing.org/), pour un numérique porteur d’avenir et centré sur les capacités humaines
 * [InternetActu](http://www.internetactu.net/), blog édité par la [Fing](https://fing.org/), est un fil d’information consacré à l’innovation dans les techniques, les services et les usages des technologies de l’information et de la communication, et aux débats qui en découlent.
-* [Onestla.tech](https://onestla.tech/page/a-propos/), l'appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites
+* [Onestla.tech](https://onestla.tech/page/a-propos/), l'appel des travailleuses et travailleurs du numérique pour une autre réforme des retraites.
+* [TechTrash](https://www.techtrash.fr/), la newsletter tech bête et méchante.
 
 ### Articles
 
