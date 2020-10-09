@@ -34,11 +34,11 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 ### Articles
 
 * "[Quelles technologies pour une société durable ?](https://atterrissage.org/technologies-societe-durable-65514b474700)", Damien Detcherry, 2018
-* "[La controverse de la 5G](https://gauthierroussilhe.com/fr/projects/controverse-de-la-5g), Gauthier Roussilhe, 2020
+* "[La controverse de la 5G](https://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)", Gauthier Roussilhe, 2020
 
 ### Podcasts
 
-* [Le mouton numérique](https://soundcloud.com/lemoutonnumerique)
+* [Le mouton numérique](https://soundcloud.com/lemoutonnumerique), des émissions critiques et constructives sur nos choix technologiques et l'innovation.
 * [Techologie](https://techologie.net/), le podcast qui tente de lier tech et écologie alors que tout les oppose.
 
 ### A suivre
