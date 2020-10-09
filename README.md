@@ -6,8 +6,6 @@ Le néologisme technocritique définit un courant de pensée axé sur la critiqu
 
 Cette page a pour modeste ambition de lister les ressources incontournables du passé et du présent et les personnes du présent à "_follow_" (car faut pas déconner on utilise quand même un peu de novlangue) qui questionnent l'apport de la technologie, le numérique sur des questions démocratiques, sociales, sociétales et bien sûr environnementales.
 
-Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant une modification par pull request sinon par [email](mailto:supertanuki@gmail.com).
-
 ## Bibliographie
 
 * « La convivialité », Ivan Illich (1973)
@@ -54,3 +52,7 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 « J'appelle société conviviale une société où l'outil moderne est au service de la personne intégrée à la collectivité, et non au service d'un corps de spécialistes. Conviviale est la société où l'homme contrôle l'outil », Ivan Illich (1973)
 
 « L’outil simple, pauvre, transparent est un humble serviteur; l’outil élaboré, complexe, secret est un maître arrogant. », Ivan Illich (1973)
+
+## Contribuer
+
+Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant une modification par [_pull request_](https://github.com/supertanuki/technocritique/edit/main/README.md) sinon par [email](mailto:supertanuki@gmail.com).
