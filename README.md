@@ -10,14 +10,14 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 
 ## Bibliographie
 
-* "La convivialité", Ivan Illich (1973)
-* "L’âge des low tech. Vers une civilisation techniquement soutenable", Philippe Bihouix (2014)
-* "Le bonheur était pour demain : Les rêveries d'un ingénieur solitaire", Philippe Bihouix (2019)
-* "En attendant les robots. Enquête sur le travail du clic", Antonio Casilli (2019)
-* "Pour une écologie numérique", Eric Vidalenc (2019)
-* "Technologie partout, démocratie nulle part", Yaël Benayoun et Irénée Régnault (2020)
-* "La démocratie a-t-elle besoin de la science ?", Pierre Papon (2020)
-* "Contre l'alternumérisme - Pourquoi nous ne proposerons pas d'"écogestes numériques" ni de solutions pour une "démocratie numérique"", Julia Lainae et Nicolas Alep (2020)
+* « La convivialité », Ivan Illich (1973)
+* « L’âge des low tech. Vers une civilisation techniquement soutenable », Philippe Bihouix (2014)
+* « Le bonheur était pour demain : Les rêveries d'un ingénieur solitaire », Philippe Bihouix (2019)
+* « En attendant les robots. Enquête sur le travail du clic », Antonio Casilli (2019)
+* « Pour une écologie numérique », Eric Vidalenc (2019)
+* « Technologie partout, démocratie nulle part », Yaël Benayoun et Irénée Régnault (2020)
+* « La démocratie a-t-elle besoin de la science ? », Pierre Papon (2020)
+* « Contre l'alternumérisme - Pourquoi nous ne proposerons pas d'"écogestes numériques" ni de solutions pour une "démocratie numérique" », Julia Lainae et Nicolas Alep (2020)
 
 ## Sur la toile
 
@@ -34,8 +34,8 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 
 ### Articles
 
-* "[Quelles technologies pour une société durable ?](https://atterrissage.org/technologies-societe-durable-65514b474700)", Damien Detcherry, 2018
-* "[La controverse de la 5G](https://gauthierroussilhe.com/fr/projects/controverse-de-la-5g)", Gauthier Roussilhe, 2020
+* « [Quelles technologies pour une société durable ?](https://atterrissage.org/technologies-societe-durable-65514b474700) », Damien Detcherry, 2018
+* « [La controverse de la 5G](https://gauthierroussilhe.com/fr/projects/controverse-de-la-5g) », Gauthier Roussilhe, 2020
 
 ### Podcasts
 
