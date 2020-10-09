@@ -11,6 +11,8 @@ Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant
 ## Bibliographie
 
 * "La convivialité", Ivan Illich (1973)
+* "L’âge des low tech. Vers une civilisation techniquement soutenable", Philippe Bihouix (2014)
+* "Le bonheur était pour demain : Les rêveries d'un ingénieur solitaire", Philippe Bihouix (2019)
 * "En attendant les robots. Enquête sur le travail du clic", Antonio Casilli (2019)
 * "Pour une écologie numérique", Eric Vidalenc (2019)
 * "Technologie partout, démocratie nulle part", Yaël Benayoun et Irénée Régnault (2020)
