@@ -1,6 +1,6 @@
 # Technocritique
 
-## Qu'est-ce que c'est ?
+## À propos
 
 Le néologisme technocritique définit un courant de pensée axé sur la critique du concept du « progrès technique », considéré comme une idéologie qui serait née au XVIIIe siècle durant la Révolution industrielle et qui, depuis la Seconde Guerre mondiale, s'ancre dans les consciences, principalement sous les effets de l'automation et de l'informatisation. [Lire plus sur Wikipédia](https://fr.wikipedia.org/wiki/Technocritique).
 
