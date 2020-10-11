@@ -9,6 +9,7 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 ## Bibliographie
 
 * « La convivialité », Ivan Illich (1973)
+* « La technique et le temps », Bernard Stiegler (3 tomes de 1994 - 2001)
 * « L’âge des low tech. Vers une civilisation techniquement soutenable », Philippe Bihouix (2014)
 * « Le bonheur était pour demain : Les rêveries d'un ingénieur solitaire », Philippe Bihouix (2019)
 * « En attendant les robots. Enquête sur le travail du clic », Antonio Casilli (2019)
@@ -45,6 +46,7 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 * [Le mouton numérique](https://soundcloud.com/lemoutonnumerique), des émissions critiques et constructives sur nos choix technologiques et l'innovation.
 * [Techologie](https://techologie.net/), le podcast qui tente de lier tech et écologie alors que tout les oppose.
 * [Disruption Protestante](http://disruption-protestante.fr/), une immersion dans la Startup Nation pour comprendre les humains et les technologies sous le vernis de la "transformation digitale".
+* [Bernard Stiegler : « Il ne faut pas rejeter les techniques mais les critiquer et les transformer »](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/profession-philosophe-6262-bernard-stiegler-il-ne-faut-pas-rejeter-les-techniques-mais-les-critiquer) sur France Culture - Profession philosophe.
 
 ### A suivre
 
@@ -59,6 +61,8 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 « J'appelle société conviviale une société où l'outil moderne est au service de la personne intégrée à la collectivité, et non au service d'un corps de spécialistes. Conviviale est la société où l'homme contrôle l'outil », Ivan Illich (1973)
 
 « L’outil simple, pauvre, transparent est un humble serviteur; l’outil élaboré, complexe, secret est un maître arrogant. », Ivan Illich (1973)
+
+« Tout objet technique est un pharmakon : à la fois poison et remède ; et par conséquent toute technologie est porteuse du pire comme du meilleur », Bernard Stiegler.
 
 ## Contribuer
 
