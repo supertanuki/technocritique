@@ -64,6 +64,8 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 
 « Tout objet technique est un pharmakon : à la fois poison et remède ; et par conséquent toute technologie est porteuse du pire comme du meilleur », Bernard Stiegler.
 
+« Rien n’est plus effrayant aujourd’hui que la gouvernementalité algorithmique et cependant je pense que l’humanité ne peut pas éviter de développer des moyens qui passent par la cybernétique. Je pense qu’il ne faut pas rejeter ces techniques mais il faut les critiquer, ce qui ne veut pas dire simplement les dénoncer mais les transformer. "Stopcovid" est une application qui pose beaucoup de problèmes, et m’en pose à moi aussi… Quand on veut combattre le côté toxique d’une technologie, il faut commencer par se l’approprier… », Bernard Stiegler
+
 ## Contribuer
 
 Vous pouvez contribuer à cette page, si vous avez un compte Github en proposant une modification par [_pull request_](https://github.com/supertanuki/technocritique/edit/main/README.md) sinon par [email](mailto:supertanuki@gmail.com).
