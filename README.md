@@ -35,6 +35,7 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 * [La Quadrature du Net](https://www.laquadrature.net) promeut et défend les libertés fondamentales dans l’environnement numérique
 * [Framasoft](https://framasoft.org/), Changer le monde, un octet à la fois. Association d’éducation populaire pour un monde numérique émancipateur
 * [Low-tech Lab](https://lowtechlab.org/) a pour mission de partager les solutions et l’esprit low-tech au plus grand nombre, afin de permettre à chacun de répondre à ses besoins de base de manière autonome et durable.
+* [Manifeste écologique des professionnel·le·s de l’informatique](https://www.climanifeste.net/)
 
 ### Articles
 
