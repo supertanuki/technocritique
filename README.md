@@ -44,10 +44,11 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 
 ### Podcasts
 
+* [Bernard Stiegler : « Il ne faut pas rejeter les techniques mais les critiquer et les transformer »](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/profession-philosophe-6262-bernard-stiegler-il-ne-faut-pas-rejeter-les-techniques-mais-les-critiquer) sur France Culture - Profession philosophe.
+* [Disruption Protestante](http://disruption-protestante.fr/), une immersion dans la Startup Nation pour comprendre les humains et les technologies sous le vernis de la "transformation digitale".
 * [Le mouton numérique](https://soundcloud.com/lemoutonnumerique), des émissions critiques et constructives sur nos choix technologiques et l'innovation.
 * [Techologie](https://techologie.net/), le podcast qui tente de lier tech et écologie alors que tout les oppose.
-* [Disruption Protestante](http://disruption-protestante.fr/), une immersion dans la Startup Nation pour comprendre les humains et les technologies sous le vernis de la "transformation digitale".
-* [Bernard Stiegler : « Il ne faut pas rejeter les techniques mais les critiquer et les transformer »](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie/profession-philosophe-6262-bernard-stiegler-il-ne-faut-pas-rejeter-les-techniques-mais-les-critiquer) sur France Culture - Profession philosophe.
+* [Tête à tech](https://soundcloud.com/lemoutonnumerique), un tête à tête technocritique sur les nouvelles technologies et ses impacts sur nos sociétés.
 
 ### A suivre
 
