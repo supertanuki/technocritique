@@ -44,6 +44,7 @@ Cette page a pour modeste ambition de lister les ressources incontournables du p
 * « [Ni Amish, ni aveugles : une autre voix pour le numérique](https://vuhong-l.medium.com/ni-amish-ni-aveugles-une-autre-voix-pour-le-num%C3%A9rique-284ffbdc2d97) », Lan Anh Vu Hong, 2020
 * « [To fix Climate Change, stop being a techie and start being a human](https://medium.com/@PaulDJohnston/to-fix-climate-change-stop-being-a-techie-and-start-being-a-human-fcf74fb40480) », Paul Johnston, 2019
 * [Le code fait loi – De la liberté dans le cyberespace](https://framablog.org/2010/05/22/code-is-law-lessig/)
+* [Low-tech et enjeux écologiques : quels potentiels pour affronter les crises ?](https://lapenseeecologique.com/introduction-au-dossier-low-tech-low-tech-et-enjeux-ecologiques-quels-potentiels-pour-affronter-les-crises/)
 
 ### Podcasts
 
